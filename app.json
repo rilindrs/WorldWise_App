@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "WorldWise_App",
-    "slug": "WorldWise_App"
+    "slug": "WorldWise_App",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
